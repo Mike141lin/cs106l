@@ -16,7 +16,7 @@
 #include <string>
 #include <vector>
 
-const std::string COURSES_OFFERED_PATH = "student_output/courses_offered.csv";
+const std::string COURSES_OFFERED_PATH = "student_output/courses_offered.csv";//表明这个变量是个常量，之后不能改变。
 const std::string COURSES_NOT_OFFERED_PATH = "student_output/courses_not_offered.csv";
 
 /**
